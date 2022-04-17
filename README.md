@@ -1,1 +1,3 @@
-# tasks_from_chapter_14_part_2
+# Tasks from chapter 14 part 2
+
+Assignment from the book by Stephen Prat, chapter 13
